@@ -37,6 +37,7 @@ function App() {
   return (
     <div className="App">
       <NavBar total={total} spanNumber={spanNumber} clearAll={clearAll}/>
+      <h4 className="text-center mt-5">Lista de precios</h4>
       <ItemList productsList={productsList} addItem={addItem}/>
       <Checkout items={items} addItem={addItem} deleteItem={deleteItem} total={total} clearAll={clearAll}/>
     </div>

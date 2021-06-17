@@ -8,7 +8,7 @@ import { faTrash } from '@fortawesome/free-solid-svg-icons';
 import '../style/checkout.css';
 
 
-const Checkout = ({items, addItem, deleteItem, total, clearAll }) => {
+const Checkout = ({items, addItem, deleteItem, total }) => {
 
     return (
         <div className="card-checkout p-4">
