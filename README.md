@@ -2,6 +2,7 @@
   <h1>Carrito de compras</h1>
 </header>      
       
+<h2>Demo: <a href="https://dperezlaborda.github.io/carrito-de-compras/">Carrito</a> </h2>
 <ul>
    <li>Biblioteca: React</li>
     <li>Framework: React-Bootstrap <a href="https://react-bootstrap.github.io/getting-started/introduction">Web de Bootstrap</a></li>
